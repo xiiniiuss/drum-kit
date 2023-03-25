@@ -1,2 +1,2 @@
 # drum-kit
-Dram kit with DOM manipulation
+Drum kit with DOM manipulation
